@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.spec
+
+.pytest_cache/
+myfile/trash/
+.organize_trash/

@@ -1,0 +1,8 @@
+pyinstaller
+pillow
+opencv-python-headless
+keyboard
+mss
+imageio
+imageio-ffmpeg
+tkinterweb

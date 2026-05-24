@@ -1,0 +1,6 @@
+如果运行没变化，注意是否打包
+打包失败注意是否关闭程序
+打包代码：
+cd C:\code\organize
+.\build_exe.ps1
+

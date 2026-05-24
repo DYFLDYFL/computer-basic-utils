@@ -1,0 +1,10 @@
+[project]
+name = "folder-file-organizer"
+version = "0.1.0"
+description = "A small Windows desktop app for managing files in the current folder."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+folder-file-organizer = "file_organizer.app:main"

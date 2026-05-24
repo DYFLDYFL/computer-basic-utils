@@ -1,0 +1,2 @@
+"""Desktop file organizer package."""
+
