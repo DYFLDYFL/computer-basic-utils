@@ -9,3 +9,7 @@ dist/
 .pytest_cache/
 myfile/trash/
 .organize_trash/
+
+# Cursor / Poe MCP（本地开发配置，与项目源码无关）
+.cursor/
+.poe/
