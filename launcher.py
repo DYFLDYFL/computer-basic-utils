@@ -12,6 +12,7 @@ def _preload_recording_dependencies() -> None:
     import imageio_ffmpeg  # noqa: F401
     import cv2  # noqa: F401
     import mss  # noqa: F401
+    import pyzbar.pyzbar  # noqa: F401
     import numpy  # noqa: F401
 
 

@@ -1,6 +1,7 @@
 pyinstaller
 pillow
 opencv-python-headless
+pyzbar
 keyboard
 mss
 imageio
